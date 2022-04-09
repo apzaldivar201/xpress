@@ -1,6 +1,6 @@
 {
 	"success" :true,
-	"user": {
+	"agent": {
 	  "id": 9,
 	  "username": "jorge",
 	  "email": "agent1@xpress.com",
