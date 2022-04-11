@@ -9,8 +9,9 @@
 	  "lastname": "Perez",
 	  "score": "Platinum",
 	  "createdAt": "2022-04-02T00:55:07.000Z",
-	  "updatedAt": "2022-04-03T19:02:49.000Z",
-	  "client_list": [
+	  "updatedAt": "2022-04-03T19:02:49.000Z"
+	},
+	"client_list": [
 		{
 		  "nocredito": "17767",
 		  "id": "17767",
@@ -116,6 +117,4 @@
 		  "depuracion": ""
 		}
 	  ]
-	},
-	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjo5LCJzY29yZSI6MTAwMH0sImlhdCI6MTYyMjU1NjEwNSwiZXhwIjoxNjIyNjQyNTA1fQ.gV2PmSbUbtK7qjpvfgu1wrtS048VT-hnggr0oI3Z_bM"
   }
