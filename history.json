@@ -1,44 +1,47 @@
-[
-	{
-	  "date_start": "10/3/2022",
-	  "week": "Semana 9",
-	  "date_end": "16/3/2022",
-	  "ammount": 580.00,
-	  "status":""
-	},
-	{
-	  "date_start": "10/3/2022",
-	  "week": "Semana 9",
-	  "date_end": "16/3/2022",
-	  "ammount": 580.00,
-	  "status":""
-	},
-	{
-	  "date_start": "10/3/2022",
-	  "week": "Semana 9",
-	  "date_end": "16/3/2022",
-	  "ammount": 580.00,
-	  "status":""
-	},
-	{
-	  "date_start": "10/3/2022",
-	  "week": "Semana 9",
-	  "date_end": "16/3/2022",
-	  "ammount": 580.00,
-	  "status":""
-	},
-	{
-	  "date_start": "10/3/2022",
-	  "week": "Semana 9",
-	  "date_end": "16/3/2022",
-	  "ammount": 580.00,
-	  "status":""
-	},
-	{
-	  "date_start": "10/3/2022",
-	  "week": "Semana 9",
-	  "date_end": "16/3/2022",
-	  "ammount": 580.00,
-	  "status":""
-	}
-  ]
+{
+	"success": true,
+	"history": [
+		{
+			"date_start": "10/3/2022",
+			"week": "Semana 9",
+			"date_end": "16/3/2022",
+			"ammount": 580.00,
+			"status": ""
+		},
+		{
+			"date_start": "10/3/2022",
+			"week": "Semana 9",
+			"date_end": "16/3/2022",
+			"ammount": 580.00,
+			"status": ""
+		},
+		{
+			"date_start": "10/3/2022",
+			"week": "Semana 9",
+			"date_end": "16/3/2022",
+			"ammount": 580.00,
+			"status": ""
+		},
+		{
+			"date_start": "10/3/2022",
+			"week": "Semana 9",
+			"date_end": "16/3/2022",
+			"ammount": 580.00,
+			"status": ""
+		},
+		{
+			"date_start": "10/3/2022",
+			"week": "Semana 9",
+			"date_end": "16/3/2022",
+			"ammount": 580.00,
+			"status": ""
+		},
+		{
+			"date_start": "10/3/2022",
+			"week": "Semana 9",
+			"date_end": "16/3/2022",
+			"ammount": 580.00,
+			"status": ""
+		}
+	]
+}
